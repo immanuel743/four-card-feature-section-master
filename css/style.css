@@ -1,8 +1,20 @@
+/* Reset */
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-weight: 200;
+}
+h1{
+    font-weight: 400;
+}
+p{
+    font-weight: 600;
+}
+/* General */
 .container{
     max-width: 80%;
     margin: 0 auto;
